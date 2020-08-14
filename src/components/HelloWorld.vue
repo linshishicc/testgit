@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">修改修改</a>.
     </p>
     <h3>666</h3>
     <ul>
